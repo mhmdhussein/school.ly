@@ -1,0 +1,74 @@
+/.phpunit.cache
+/bootstrap/ssr
+/node_modules/
+/public/build/
+/public/hot
+/public/storage
+/resources/js/actions
+/resources/js/routes
+/resources/js/wayfinder
+/storage/*.key
+/storage/pail
+/vendor/
+.DS_Store
+.env
+.env.*
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/auth.json
+/.fleet
+/.idea/
+/.nova/
+/.vscode/
+/.zed
+
+# Laravel specific
+/storage/framework/cache/data/
+/storage/logs/
+/storage/framework/sessions/
+/storage/framework/views/
+/bootstrap/cache/
+
+# Node, npm, pnpm, yarn
+/.pnp/
+.pnp.js
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# IDEs and editors
+/.vscode/*
+/.idea/*
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build outputs
+/public/mix-manifest.json
+/public/hot
+
+# Composer and PHP
+/vendor/
+composer.phar
+
+# test and CI caches
+.phpunit.result.cache
+.php_cs.cache
+
+# Temporary files
+*.log
+*.cache
+*.tmp
+
+# SFTP config
+.ftpconfig
